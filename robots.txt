@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gc2dot0.com/sitemap.xml
