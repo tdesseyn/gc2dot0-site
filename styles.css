@@ -93,3 +93,6 @@ footer a{color:var(--ink)}
 .qa h3{margin:20px 0 6px;font-size:18px;line-height:1.3;letter-spacing:-.01em}
 .qa p{margin:0 0 8px}
 .qa .qa-src{font:500 12px/1.4 var(--mono);color:var(--muted)}
+
+.cta .pdfbtn{margin:12px 0 0}.cta .pdfbtn .btn{display:block;text-align:center;background:var(--blue);color:var(--off);padding:14px 16px;border-radius:6px;font-weight:700;text-decoration:none}
+#download{scroll-margin-top:12px}
