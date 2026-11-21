@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /thanks/
+Disallow: /guide/
 
 Sitemap: https://gc2dot0.com/sitemap.xml
